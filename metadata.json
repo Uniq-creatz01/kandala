@@ -1,0 +1,6 @@
+{
+  "name": "KANDALA HUB",
+  "description": "Meme creation, social feeds, user discovery, direct & group chats with media sharing, and instant meme downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
